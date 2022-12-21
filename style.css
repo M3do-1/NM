@@ -402,8 +402,11 @@ section {
   transition: 0.7s ease;
   border-radius: 9px;
   margin: 10px;
-}
-
+  display: inline-block;
+  
+} 
+ 
 .youtu:hover {
   transform: scale(1.1);
 }
+
